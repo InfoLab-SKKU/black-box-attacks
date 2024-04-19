@@ -65,7 +65,7 @@ Purpose: Testing black-box attacks and defenses on diverse models
   | Median Smoothing     | kernel_size=2 (weak) | [AdverTorch](https://github.com/BorealisAI/advertorch) |
   | Bits Squeezing       | bit_depth=4 (weak) | [AdverTorch](https://github.com/BorealisAI/advertorch) | 
 
-  <img src="images/defense_type.png" width="40%" height="40%"> 
+  <img src="images/defense_type.png" width="40%" height="60%"> 
 
   #### Device Information 
   | Device           | Device Name                 | 
