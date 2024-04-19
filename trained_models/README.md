@@ -1,5 +1,5 @@
 # Trained Models 
-Purpose: Training models on CIFAR-10 and CIFAR-100 for our research
+Purpose: Training models on CIFAR-10 and CIFAR-100 for our research.
 
 If you want to get trained models, please contact to author: f.i.juraev@gmail.com (Firuz Juraev)
 
