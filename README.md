@@ -209,3 +209,17 @@ Purpose: Testing black-box attacks and defenses on diverse models
   ### Example 
   <img src="images/defense_examples.png" width="75%" height="75%">  
   
+## Citation
+We would appreciate it if you could cite our work when using our code.
+
+```bibtex
+@INPROCEEDINGS{10637362,
+  author={Juraev, Firuz and Abuhamad, Mohammed and Woo, Simon S. and Thiruvathukal, George K and Abuhmed, Tamer},
+  booktitle={2024 Silicon Valley Cybersecurity Conference (SVCC)}, 
+  title={The Impact of Model Variations on the Robustness of Deep Learning Models in Adversarial Settings}, 
+  year={2024},
+  pages={1-7},
+  doi={10.1109/SVCC61185.2024.10637362}
+}
+
+```
